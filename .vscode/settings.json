@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "dealer_shipv1.0",
+            "connectString": "postgres://kbuxxliq:aoAqG8ffAykhJ1eF-lPazoDkcKnUgKrx@kashin.db.elephantsql.com/kbuxxliq"
+        }
+    ]
+}
